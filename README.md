@@ -1,1 +1,1 @@
-# Machine-Learnings-Assignments
+# Machine-Learning-Assignments
